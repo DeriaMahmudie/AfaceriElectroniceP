@@ -1,5 +1,5 @@
 import basket_icon from "./basket_icon.png";
-import product from "./imagine.jpeg";
+import product from "./magazin.jpg";
 
 import add_icon_white from "./add_icon_white.png";
 import add_icon_green from "./add_icon_green.png";
